@@ -145,15 +145,3 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 .gitignore
-CONTRIBUTING.md
-LICENSE
-app/.gitignore
-app/build.gradle
-app/proguard-rules.pro
-app/src/
-build.gradle
-gradle.properties
-gradle/
-gradlew
-gradlew.bat
-settings.gradle
